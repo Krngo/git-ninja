@@ -72,5 +72,3 @@ to push up to remote repo
 to pull down from remote repo
 
     git pull
-    
-:frog:
